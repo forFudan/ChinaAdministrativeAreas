@@ -12,5 +12,5 @@ This database is currently maintained and revised by ShuDuJun (数读君), who u
 2 March 2020  
 https://mp.weixin.qq.com/s/5-C3c7mLJ9EPN7e3J9-S4g
 
-请关注原作者公众号并且给作者点赞！
-![Alt text](https://mmbiz.qpic.cn/mmbiz_png/uCO0B0UBtiaK9Yq5Oz9cBKlezaGmias0LIM2wD7ZH6hCwt9WdJ7slHxbYwTic737N9IFzZ6jwkUkdgiajGh4I0ibicyA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+请关注原作者公众号并且给作者点赞！  
+![wechat](https://mmbiz.qpic.cn/mmbiz_png/uCO0B0UBtiaK9Yq5Oz9cBKlezaGmias0LIM2wD7ZH6hCwt9WdJ7slHxbYwTic737N9IFzZ6jwkUkdgiajGh4I0ibicyA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
