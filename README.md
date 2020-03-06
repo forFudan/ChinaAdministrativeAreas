@@ -7,8 +7,9 @@ This database is currently maintained and revised by ShuDuJun (数读君), who u
 
 本数据库目前由数读君维护和修正。历时一个多月的时间，他完成了至2019年县级以上行政区域的数据的修正和更新。
 
-## 2019年行政区划调整的数据更新与分享
-2 March 2020
+## 微信公众号 CityDast
+### 2019年行政区划调整的数据更新与分享
+2 March 2020  
 https://mp.weixin.qq.com/s/5-C3c7mLJ9EPN7e3J9-S4g
 
 ![Alt text](https://mmbiz.qpic.cn/mmbiz_png/uCO0B0UBtiaK9Yq5Oz9cBKlezaGmias0LIM2wD7ZH6hCwt9WdJ7slHxbYwTic737N9IFzZ6jwkUkdgiajGh4I0ibicyA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
